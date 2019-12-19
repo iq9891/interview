@@ -1,0 +1,13 @@
+{
+  "name": "interview",
+  "scripts": {
+    "lint": "prettier --write \"src/**/*.js?(x)\""
+  },
+  "devDependencies": {
+    "pre-commit": "^1.2.2",
+    "prettier": "^1.19.1"
+  },
+  "pre-commit": [
+    "lint"
+  ]
+}
