@@ -5,6 +5,7 @@
 
 | 文件 | 描述 |
 | ----- | ---- |
+|[array-copywithin.js](src/js/array-copywithin.js) | 实现 copywithin 方法 |
 |[array-filter.js](src/js/array-filter.js) | 实现 filter 方法 |
 |[array-flat.js](src/js/array-flat.js) | 实现 flat 方法 |
 |[array-from.js](src/js/array-from.js) | 实现 from 方法 |
