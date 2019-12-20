@@ -14,3 +14,9 @@
 |[array-of.js](src/js/array-of.js) | 实现 of 方法 |
 |[array-reduce.js](src/js/array-reduce.js) | 实现 reduce 方法 |
 |[array-some.js](src/js/array-some.js) | 实现 some 方法 |
+
+## 面试相关文章
+
+- [前端安全](https://juejin.im/post/5dfb601a6fb9a0163d1a691c)
+- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
+- [【面试篇】寒冬求职季之你必须要懂的原生JS(上)](https://juejin.im/post/5cab0c45f265da2513734390)
