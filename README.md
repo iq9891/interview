@@ -14,6 +14,7 @@
 |[array-of.js](src/js/array-of.js) | 实现 of 方法 |
 |[array-reduce.js](src/js/array-reduce.js) | 实现 reduce 方法 |
 |[array-some.js](src/js/array-some.js) | 实现 some 方法 |
+|[instanceof.js](src/js/instanceof.js) | instanceof 关键字 |
 |[new.js](src/js/new.js) | new 关键字 |
 
 ## 面试相关文章
