@@ -18,6 +18,13 @@
 |[instanceof.js](src/js/instanceof.js) | instanceof 关键字 |
 |[new.js](src/js/new.js) | new 关键字 |
 
+## 面试题
+
+| 文件 | 描述 |
+| ----- | ---- |
+|[curry.js](src/interview/curry.js) | 柯里化面试题1 |
+
+
 ## 面试相关文章
 
 - [前端安全](https://juejin.im/post/5dfb601a6fb9a0163d1a691c)
