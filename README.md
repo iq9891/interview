@@ -3,26 +3,44 @@
 
 ## JavaScript
 
+## 数组篇
+
 | 文件 | 描述 |
 | ----- | ---- |
-|[array-copywithin.js](src/js/array-copywithin.js) | 实现 copywithin 方法 |
-|[array-filter.js](src/js/array-filter.js) | 实现 filter 方法 |
-|[array-flat.js](src/js/array-flat.js) | 实现 flat 方法 |
-|[array-from.js](src/js/array-from.js) | 实现 from 方法 |
-|[array-isarray.js](src/js/array-isarray.js) | 实现 isArray 方法 |
-|[array-map.js](src/js/array-map.js) | 实现 map 方法 |
-|[array-of.js](src/js/array-of.js) | 实现 of 方法 |
-|[array-reduce.js](src/js/array-reduce.js) | 实现 reduce 方法 |
-|[array-some.js](src/js/array-some.js) | 实现 some 方法 |
-|[curry.js](src/js/curry.js) | curry 函数柯里化的实现 |
-|[instanceof.js](src/js/instanceof.js) | instanceof 关键字 |
-|[new.js](src/js/new.js) | new 关键字 |
+|[copywithin](src/js/array-copywithin.js) | 实现 copywithin 方法 |
+|[filter](src/js/array-filter.js) | 实现 filter 方法 |
+|[flat](src/js/array-flat.js) | 实现 flat 方法 |
+|[from](src/js/array-from.js) | 实现 from 方法 |
+|[isarray](src/js/array-isarray.js) | 实现 isArray 方法 |
+|[map](src/js/array-map.js) | 实现 map 方法 |
+|[of](src/js/array-of.js) | 实现 of 方法 |
+|[reduce](src/js/array-reduce.js) | 实现 reduce 方法 |
+|[some](src/js/array-some.js) | 实现 some 方法 |
+
+## 对象篇
+
+| 文件 | 描述 |
+| ----- | ---- |
+|[isplainobject](src/js/object-isplainobject.js) | 实现 isPlainObject 方法，判断是否普通对象 |
+
+## 函数篇
+
+| 文件 | 描述 |
+| ----- | ---- |
+|[curry](src/js/function-curry.js) | curry 函数柯里化的实现 |
+
+## 关键字篇
+
+| 文件 | 描述 |
+| ----- | ---- |
+|[instanceof](src/js/keyword-instanceof.js) | instanceof |
+|[new](src/js/keyword-new.js) | new |
 
 ## 面试题
 
 | 文件 | 描述 |
 | ----- | ---- |
-|[curry.js](src/interview/curry.js) | 柯里化面试题1 |
+|[curry](src/interview/curry.js) | 柯里化面试题1 |
 
 ## 开源的面试
 - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
