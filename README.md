@@ -28,6 +28,7 @@
 | 文件 | 描述 |
 | ----- | ---- |
 |[curry](src/js/function-curry.js) | curry 函数柯里化的实现 |
+|[deepclone](src/js/function-deepclone.js) | deepclone 深拷贝高性能实现( proxy ) |
 
 ## 关键字篇
 
