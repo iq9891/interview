@@ -24,9 +24,11 @@
 | ----- | ---- |
 |[curry.js](src/interview/curry.js) | 柯里化面试题1 |
 
+## 开源的面试
+- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
+- [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 
 ## 面试相关文章
 
 - [前端安全](https://juejin.im/post/5dfb601a6fb9a0163d1a691c)
-- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
 - [【面试篇】寒冬求职季之你必须要懂的原生JS(上)](https://juejin.im/post/5cab0c45f265da2513734390)
